@@ -1,0 +1,14 @@
+booléen :
+    true et false 
+int :
+    1 an d 0
+float :
+    1.0 + 2.00 = 3.000004
+string:
+    krgâoizegazoeif
+
+
+https://www.php.net/manual/fr/language.types.string.php
+
+
+regex for url detection : (https?:\/\/|www?\.)[a-zA-Z0-9._\.]+
